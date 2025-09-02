@@ -5,3 +5,7 @@ I'm a stupid software engineer and developer with skills ranging from front-end 
 Outside of tech, I was a content creator with more than 800k views on a single YouTube video, and nowadays I enjoy editing videos sometimes. I also love learning philosophy, reading books, and playing games.
 
 😺 If you wonder why I use inappropriate word like stupid in my repo or some document because that is my philosophy: Be stupid so you can learn from others more easily.
+
+---
+The rest of the pages is still under construction..............
+---
