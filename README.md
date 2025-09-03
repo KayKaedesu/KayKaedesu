@@ -6,7 +6,7 @@ Outside of tech, I was a content creator with more than 800k views on a single Y
 
 😺 If you wonder why I use inappropriate word like stupid in my repo or some document because that is my philosophy: Be stupid so you can learn from others more easily.
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,flutter" /><br/>
     <img src="https://skillicons.dev/icons?i=vue,react,tailwind,express,pinia,prisma,postgres,jenkins,docker,rabbitmq,supabase,firebase,aws,gcp,figma" /><br/>
