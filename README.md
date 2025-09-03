@@ -1,6 +1,6 @@
 ## Hello there! 👋 I'm Kay, A small developer who is trying to learn a lot of things
 
-[Banner Image](images/cat-normal.gif)
+[Banner Image](images/cat-normal.mp4)
 
 I'm a stupid software engineer and developer with skills ranging from front-end to back-end to database, and even some basic cloud service and those DevOps pipeline CI/CD operation.
 
