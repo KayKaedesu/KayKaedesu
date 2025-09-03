@@ -1,7 +1,5 @@
 ## Hello there! 👋 I'm Kay, A small developer who is trying to learn a lot of things
 
-[Banner Image](images/cat-normal.mp4)
-
 I'm a stupid software engineer and developer with skills ranging from front-end to back-end to database, and even some basic cloud service and those DevOps pipeline CI/CD operation.
 
 Outside of tech, I was a content creator with more than 800k views on a single YouTube video, and nowadays I enjoy editing videos sometimes. I also love learning philosophy, reading books, and playing games.
@@ -10,7 +8,9 @@ Outside of tech, I was a content creator with more than 800k views on a single Y
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,flutter" />
+    <img src="https://skillicons.dev/icons?i=vue,react,tailwind,express,pinia,prisma,postgres,jenkins,docker,rabbitmq,supabase,firebase,aws,gcp,figma" />
+    <span>Currently being extremely stupid on: <img src="https://skillicons.dev/icons?i=vim,arch" /></span>
   </a>
 </p>
 ---
